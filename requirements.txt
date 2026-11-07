@@ -1,0 +1,9 @@
+streamlit>=1.40
+tensorflow>=2.16
+# Samakan dengan versi saat pipeline diabetes disimpan di Colab (1.6.1)
+scikit-learn==1.6.1
+pandas
+numpy
+pillow
+joblib
+pytest

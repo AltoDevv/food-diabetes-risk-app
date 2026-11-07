@@ -1,0 +1,102 @@
+class_index,food_label,display_name,serving_size_g,calories_kcal,carbohydrates_g,sugar_g,fiber_g,protein_g,fat_g,saturated_fat_g,sodium_mg,source_name,source_id,source_url,notes
+0,apple_pie,Apple Pie,100,237,34,15,2.0,2.4,10.0,4.2,474,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+1,baby_back_ribs,Baby Back Ribs,100,291,0,0,0,18,24,9.5,582,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+2,baklava,Baklava,100,428,52,26,2.0,6,22,7,856,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+3,beef_carpaccio,Beef Carpaccio,100,150,2,0,0,26,5,2,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+4,beef_tartare,Beef Tartare,100,200,1,0,0,22,12,4,400,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+5,beet_salad,Beet Salad,100,80,12,7,3,2,3,0.5,160,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+6,beignets,Beignets,100,333,49,16,1.5,5,14,3,666,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+7,bibimbap,Bibimbap,100,140,18,4,2,6,5,1,280,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+8,bread_pudding,Bread Pudding,100,230,32,18,1,5,9,4.5,460,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+9,breakfast_burrito,Breakfast Burrito,100,180,20,2,2,8,8,3,360,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+10,bruschetta,Bruschetta,100,150,18,3,2,4,7,1,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+11,caesar_salad,Caesar Salad,100,160,8,2,2,6,11,4,320,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+12,cannoli,Cannoli,100,300,35,18,1,7,15,8,600,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+13,caprese_salad,Caprese Salad,100,180,5,3,1,10,14,8,360,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+14,carrot_cake,Carrot Cake,100,350,48,30,2,4,16,5,700,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+15,ceviche,Ceviche,100,90,5,3,1,15,2,0.5,180,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+16,cheesecake,Cheesecake,100,321,25,18,0.5,5,22,12,642,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+17,cheese_plate,Cheese Plate,100,350,2,1,0,22,28,18,700,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+18,chicken_curry,Chicken Curry,100,150,8,3,1,14,8,3,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+19,chicken_quesadilla,Chicken Quesadilla,100,250,20,2,1,15,13,6,500,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+20,chicken_wings,Chicken Wings,100,290,6,0,0,24,20,6,580,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+21,chocolate_cake,Chocolate Cake,100,370,50,30,3,5,16,7,740,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+22,chocolate_mousse,Chocolate Mousse,100,225,30,25,2,4,10,6,450,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+23,churros,Churros,100,380,45,20,2,5,20,4,760,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+24,clam_chowder,Clam Chowder,100,95,9,3,0.5,5,5,2,190,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+25,club_sandwich,Club Sandwich,100,250,20,3,2,14,12,4,500,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+26,crab_cakes,Crab Cakes,100,210,15,2,1,12,12,3,420,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+27,creme_brulee,Creme Brulee,100,250,22,20,0,4,16,9,500,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+28,croque_madame,Croque Madame,100,260,16,2,1,15,14,7,520,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+29,cup_cakes,Cup Cakes,100,350,50,30,1,4,15,5,700,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+30,deviled_eggs,Deviled Eggs,100,200,3,1,0,10,16,4,400,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+31,donuts,Donuts,100,400,50,20,2,6,20,9,800,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+32,dumplings,Dumplings,100,180,25,2,1,7,6,2,360,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+33,edamame,Edamame,100,121,9,2,5,12,5,0.6,242,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+34,eggs_benedict,Eggs Benedict,100,220,10,1,1,12,15,5,440,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+35,escargots,Escargots,100,90,2,0,0,16,2,0.5,180,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+36,falafel,Falafel,100,333,32,2,7,13,17,2.5,666,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+37,filet_mignon,Filet Mignon,100,220,0,0,0,27,12,5,440,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+38,fish_and_chips,Fish And Chips,100,220,22,1,2,12,10,2,440,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+39,foie_gras,Foie Gras,100,462,4,0,0,11,44,15,924,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+40,french_fries,French Fries,100,312,41,0,3.8,3.4,15,3,624,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+41,french_onion_soup,French Onion Soup,100,55,7,3,1,2,2,1,110,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+42,french_toast,French Toast,100,229,27,8,1,7,10,4,458,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+43,fried_calamari,Fried Calamari,100,175,12,1,1,14,8,2,350,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+44,fried_rice,Fried Rice,100,168,22,1,1,5,7,2,336,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+45,frozen_yogurt,Frozen Yogurt,100,127,22,15,0,4,3,2,254,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+46,garlic_bread,Garlic Bread,100,350,46,3,2,8,16,3,700,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+47,gnocchi,Gnocchi,100,150,31,1,2,4,1,0.3,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+48,greek_salad,Greek Salad,100,120,7,4,2,4,8,3,240,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+49,grilled_cheese_sandwich,Grilled Cheese Sandwich,100,350,30,4,2,12,21,12,700,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+50,grilled_salmon,Grilled Salmon,100,206,0,0,0,22,13,3,412,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+51,guacamole,Guacamole,100,150,8,1,6.7,2,13,2,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+52,gyoza,Gyoza,100,200,25,2,1,8,7,2,400,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+53,hamburger,Hamburger,100,295,24,4,1,16,16,6,590,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+54,hot_and_sour_soup,Hot And Sour Soup,100,45,5,2,1,3,2,0.5,90,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+55,hot_dog,Hot Dog,100,290,4,1,0,11,25,9,580,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+56,huevos_rancheros,Huevos Rancheros,100,145,10,3,2,8,8,2,290,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+57,hummus,Hummus,100,166,14,0.3,6,8,10,1.5,332,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+58,ice_cream,Ice Cream,100,207,24,21,0,4,11,7,414,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+59,lasagna,Lasagna,100,135,15,4,2,7,6,3,270,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+60,lobster_bisque,Lobster Bisque,100,75,5,2,0,5,4,2,150,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+61,lobster_roll_sandwich,Lobster Roll Sandwich,100,230,20,2,1,12,12,4,460,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+62,macaroni_and_cheese,Macaroni And Cheese,100,164,18,3,1,7,8,4,328,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+63,macarons,Macarons,100,400,50,40,2,8,17,5,800,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+64,miso_soup,Miso Soup,100,40,5,2,1,3,1,0.2,80,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+65,mussels,Mussels,100,86,4,0,0,12,2,0.5,172,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+66,nachos,Nachos,100,320,35,3,5,8,17,7,640,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+67,omelette,Omelette,100,154,2,1,0,11,11,3,308,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+68,onion_rings,Onion Rings,100,411,40,4,2,5,25,5,822,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+69,oysters,Oysters,100,68,4,1,0,8,2,0.5,136,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+70,pad_thai,Pad Thai,100,160,20,5,1,7,6,1,320,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+71,paella,Paella,100,160,18,1,1,9,6,1.5,320,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+72,pancakes,Pancakes,100,227,28,6,1,6,10,2,454,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+73,panna_cotta,Panna Cotta,100,170,12,10,0,3,12,7,340,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+74,peking_duck,Peking Duck,100,337,0,0,0,19,28,9,674,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+75,pho,Pho,100,60,6,1,0.5,5,2,0.5,120,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+76,pizza,Pizza,100,266,33,3.6,2.3,11,10,4,532,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+77,pork_chop,Pork Chop,100,231,0,0,0,25,14,5,462,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+78,poutine,Poutine,100,220,24,1,2,7,11,5,440,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+79,prime_rib,Prime Rib,100,291,0,0,0,24,21,9,582,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+80,pulled_pork_sandwich,Pulled Pork Sandwich,100,220,25,8,1,14,8,2.5,440,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+81,ramen,Ramen,100,100,12,2,1,5,4,1,200,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+82,ravioli,Ravioli,100,175,22,2,1,7,7,3,350,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+83,red_velvet_cake,Red Velvet Cake,100,367,50,35,1,4,16,6,734,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+84,risotto,Risotto,100,150,22,1,1,4,5,2,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+85,samosa,Samosa,100,262,32,2,3,5,13,2,524,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+86,sashimi,Sashimi,100,120,0,0,0,22,3,1,240,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+87,scallops,Scallops,100,111,5,0,0,20,1,0.2,222,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+88,seaweed_salad,Seaweed Salad,100,70,10,5,2,2,3,0.5,140,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+89,shrimp_and_grits,Shrimp And Grits,100,130,12,1,1,8,6,2.5,260,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+90,spaghetti_bolognese,Spaghetti Bolognese,100,150,18,5,2,8,5,2,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+91,spaghetti_carbonara,Spaghetti Carbonara,100,195,20,1,1,8,9,4,390,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+92,spring_rolls,Spring Rolls,100,190,25,2,2,5,8,1.5,380,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+93,steak,Steak,100,271,0,0,0,25,19,8,542,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+94,strawberry_shortcake,Strawberry Shortcake,100,240,34,20,1,4,9,4,480,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+95,sushi,Sushi,100,150,28,5,1,6,2,0.5,300,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+96,tacos,Tacos,100,190,18,2,3,9,9,3,380,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+97,takoyaki,Takoyaki,100,180,22,2,1,6,8,2,360,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+98,tiramisu,Tiramisu,100,240,28,18,1,5,12,6,480,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+99,tuna_tartare,Tuna Tartare,100,145,2,0,0,23,5,1,290,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
+100,waffles,Waffles,100,291,32,7,1,8,14,3,582,Reference nutrition estimate,REF-100G,https://fdc.nal.usda.gov/,Approximate reference value per 100 g; not measured from the image.
